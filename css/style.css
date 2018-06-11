@@ -1,0 +1,27 @@
+body, html{
+    height: 100%;
+}
+body{
+    background: url("../images/background.jpg");
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+.btn-lg{
+    padding: 40px !important;
+    margin: 0px -2px !important;
+    font-size: 200% !important;
+}
+
+.btn{
+    border-radius: 0px !important;
+}
+
+#myDiv{
+    background-color: black;
+    margin: 10px auto;
+    border-radius: 5px;
+    border: 1px solid white;
+    padding: 10px;
+    /* width: 50%; */
+}
